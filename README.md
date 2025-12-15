@@ -9,6 +9,9 @@ Python 😁. Otro año más que pude llevar el reto 100% al día 😎.
 > consistente entre retos e incluso que haya algún error. Puede que no sean las
 > mejores soluciones, pero son a las que he ido llegando según he ido
 > resolviéndolos. Han sido resueltos con mentalidad casual, no 100% profesional.
+> 
+> Nota: Esta es la versión pública del repositorio. Puede que no sea la versión
+> actualizada del mismo
 
 ---
 
@@ -23,6 +26,9 @@ Repository with the challenges of
 > consistent between challenges, and there might even be some errors. They may
 > not represent the optimal solutions, but they are the ones I found as I solved
 > them. I have approached them with a casual -not 100% professional- mindset.
+> 
+> Note: This is the public version of the repository. It might not be the most
+> up-to-date version.
 
 ---
 
@@ -100,3 +106,4 @@ Complete day took 0.006645 seconds
 
 All 12 days took 3.103600 seconds.
 ```
+
